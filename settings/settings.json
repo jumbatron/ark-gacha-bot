@@ -1,0 +1,75 @@
+{
+    "main": {
+        "account_name": "337",
+        "game_launcher": "Steam",
+        "ark_path": "E:\\SteamLibrary\\steamapps\\common\\ARK",
+        "tesseract_path": "C:/Program Files/Tesseract-OCR/tesseract.exe",
+        "map": "Other"
+    },
+    "player": {
+        "health": 530,
+        "food": 100,
+        "water": 100,
+        "weight": 670
+    },
+    "discord": {
+        "user_id": "947950783725461514",
+        "webhook_alert": "https://discord.com/api/webhooks/1081828439897673738/NB77a1etb0pDAbNvvMPPqivYdYY8u4pQYLjh7fzXTmHxr1Wu1YQlmNW-zwRjIo9TOG85",
+        "webhook_gacha": "https://discord.com/api/webhooks/1081828802516226119/M04hOcMf23AjQFhdqKbZoS5yVSNtUgZPe2gZRKl-RojblmhMI9SlC35QCEzF8w-wwc7x",
+        "webhook_logs": "https://discord.com/api/webhooks/1081828669535821834/g_CLOAa2iYQUinEy2SoLac04sktYH8k6XCUmg1GRfjD9WI_jIjfg8FRiopMhns1JTFRa",
+        "webhook_state": "https://discord.com/api/webhooks/1081161076382638091/ELHh3JHam0kN9rLgTVNo58PqSwU4aH31cygG7PPAgZz-qtFgOiieObG0nZSPcOeyQ0U8",
+        "state_message_id": "1081204847996575825",
+        "timer_pop": 30
+    },
+    "ytrap": {
+        "ytrap_enabled": true,
+        "ytrap_beds": 18,
+        "ytrap_prefix": "seed",
+        "mode": "precise refill",
+        "turn_direction": "right",
+        "auto_level_gachas": true,
+        "plot_stacks": 3,
+        "plots_per_stack": 8,
+        "min_pellet_coverage": 30,
+        "crop_plot_turns": "[-135, *[-17] * 5, 50, -17]"
+    },
+    "crystal": {
+        "crystal_beds": 2,
+        "crystal_prefix": "crystal",
+        "crystal_interval": 7,
+        "stryder_depositing": false,
+        "drop_items": "['prim']",
+        "keep_items": "['riot', 'fab', 'pump', 'ass', 'mining', 'wood']",
+        "min_ytraps_collected": 1000,
+        "vault_above": true
+    },
+    "berry": {
+        "berry_enabled": false,
+        "berry_beds": 4,
+        "berry_prefix": "autoberry",
+        "berry_interval": 300
+    },
+    "meat": {
+        "meat_enabled": false,
+        "meat_beds": 4,
+        "meat_prefix": "automeat",
+        "meat_interval": 120
+    },
+    "healing": {
+        "pod_name": "suicide bed"
+    },
+    "grinding": {
+        "grinding_enabled": false,
+        "item_to_craft": "None",
+        "text_rgb": " (56, 232, 231)",
+        "pearls_region": "(25,350,510,355)",
+        "paste_region": "(17,697,560,370)",
+        "electronics_region": "(593,390,590,303)",
+        "ingots_region": "(570,730,640,305)",
+        "crystal_region": "(1245,365,560,315)",
+        "hide_region": "(1240,690,613,355)"
+    },
+    "arb": {
+        "arb_enabled": false
+    }
+}
